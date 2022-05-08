@@ -5,8 +5,8 @@
   "keywords": [
     "telegram"
   ],
-  "repository": "https://github.com/GopalSaraf/TorrentLeechBot",
-  "success_url": "https://t.me/torrentgs",
+  "repository": "https://github.com/xarturia/tleechtg",
+  "success_url": "https://t.me/torrchan",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",
